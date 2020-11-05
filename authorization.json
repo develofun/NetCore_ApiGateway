@@ -1,0 +1,12 @@
+﻿{
+    "api1": {
+        "POST": [ "perm1" ],
+        "PUT": [ "perm1" ]
+    },
+    "api2": {
+        "POST": [ "perm2" ]
+    },
+    "api3": {
+        "DELETE": [ "perm3" ]
+    }
+}
